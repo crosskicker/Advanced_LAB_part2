@@ -37,7 +37,7 @@ Router#sh ip access
 <aside>
 💡
 
-> Tout les équipements réseaux qui doivent utiliser Radius doivent être renseigné dans le serveur, ex : je veux me connecter à cet équipement avec ce compte définit dans Radius alors je dois configurer l’équipement en question
+> Tous les équipements réseaux qui doivent utiliser Radius doivent être renseigné dans le serveur, ex : je veux me connecter à cet équipement avec ce compte définit dans Radius alors je dois configurer l’équipement en question
 
 > Router, switch … ⇒ **Dans un but d’administration (via SSH ou Telnet)**
 
