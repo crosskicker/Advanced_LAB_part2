@@ -3,7 +3,7 @@
 <aside>
 💡
 
-Toute la configuration précédente à été effectué dans le lab précédent même si entre temps  du nouveau matériel et des config basique ont été apportés voir modifiés pour les différents points abordés de ce lab ( serveurs Web, Radius etc…)
+Toute la configuration précédente à été effectué dans le lab part 1 [https://github.com/crosskicker/Advanced_LAB_part1] même si entre temps  du nouveau matériel et des config basique ont été apportés voir modifiés pour les différents points abordés de ce lab ( serveurs Web, Radius etc…)
 
 PS : repartez du fichier fournit dans le repo pour éviter les conflits.
 
